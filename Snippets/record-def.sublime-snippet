@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+record ${1:name} {
+  ${0://record body}
+}
+]]></content>
+    <tabTrigger>record</tabTrigger>
+    <scope>source.chapel</scope>
+</snippet>
