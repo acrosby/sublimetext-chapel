@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+module ${1:modulename} {
+
+  const ${2://constants}
+
+  config const ${3://configconst}
+
+  config ${4://config}
+
+  var ${5://vars}
+
+  ${0://module body}
+
+  proc main() {
+    ${6://main body}
+  }
+}
+]]></content>
+    <tabTrigger>module</tabTrigger>
+    <scope>source.chapel</scope>
+</snippet>

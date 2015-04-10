@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+proc ${1:name}(${2:inputs}) {
+  ${0://proc body}
+  return ${3:output};
+}
+]]></content>
+    <tabTrigger>proc</tabTrigger>
+    <scope>source.chapel</scope>
+</snippet>
