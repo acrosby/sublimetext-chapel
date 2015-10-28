@@ -1,7 +1,9 @@
 # sublimetext-chapel
-Currently, Cray Chapel syntax highlighting for Sublime Text editor
+Currently, Cray Chapel syntax highlighting and some basic snippets for Sublime Text editor.
 
-Snippets, and Chapel compiler (`chpl`) build scenarios could be easily added. PR's will be accepted, because I won't be working on this full time.
+More snippets, and Chapel compiler (`chpl`) build scenarios could be easily added. PR's will be accepted, because I won't be working on this full time.
 
-The syntax description is taken from @bholt's chapel-tmbundle (https://github.com/bholt/chapel-tmbundle)
+The syntax description is taken from the now official @chapel-lang 's chapel-tmbundle (https://github.com/chapel-lang/chapel-tmbundle) which is keeping (only) the textmate syntax description up-to-date.
+
+Currently, this syntax description from https://github.com/chapel-lang/chapel-tmbundle/commit/8e8f4f6e8b4c2a126181ea64fb6f181650a97dac
 
